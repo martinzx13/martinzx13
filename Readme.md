@@ -23,7 +23,7 @@ I'm deeply passionate about technology and thrive on finding innovative solution
 ## My Projects 🚀
 
 Here are a few projects I've tackled during my time at 42:
-## Push Swap
+## <u>[Push Swap]()</u>
 
 **Push Swap** is a powerful sorting algorithm implemented in C. It efficiently sorts a stack of integers using a series of predefined operations, minimizing the number of moves required for sorting. The algorithm employs a doubly linked list data structure for efficient stack manipulation and offers versatility with different sorting techniques based on stack size.
 
